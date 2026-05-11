@@ -1,4 +1,0 @@
-01_project_script.zsh
-02_project_script.zsh
-all_file.txt
-/Users/apple/Desktop/script_for_temporary_time

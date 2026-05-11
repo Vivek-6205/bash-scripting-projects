@@ -19,3 +19,47 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+---
+
+
+## Project 1 (Resume Friendly)
+
+### Linux Shell Automation Projects
+- Developed multiple Bash scripting projects for Linux automation and system monitoring.
+- Implemented RAM monitoring, disk usage tracking, URL status checking, and live terminal timer utilities.
+- Utilized Linux tools such as awk, sed, grep, and cron for scripting and automation tasks.
+- Improved understanding of Linux administration, shell scripting, and DevOps fundamentals.
+
+---
+
+# LinkedIn Project Description
+
+> Built multiple Linux Shell Scripting projects focused on automation, monitoring, and system administration. Implemented RAM monitoring, disk usage analysis, URL checking, and terminal utilities using Bash scripting and Linux command-line tools such as awk, sed, grep, and cron.
+
+---
+
+# GitHub Profile Pin Suggestion
+
+Agar tum DevOps profile banana chahte ho to ye project definitely GitHub profile pe pin karna.
+
+Saath me future me:
+- Docker project
+- AWS automation
+- CI/CD script
+- Linux monitoring dashboard
+
+add karoge to profile strong lagega.
+
+---
+
+# Git Commands to Push Project
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/your-username/linux-shell-automation.git
+git push -u origin main
